@@ -1,0 +1,13 @@
+# Python
+venv/
+*.py
+
+# VS Code
+.vscode/
+
+# Web folders
+static/
+templates/
+
+# Executables
+*.exe
