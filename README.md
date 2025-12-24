@@ -28,5 +28,3 @@ java Working
 - Working.java – Entry point and user interaction
 ## Author
 Manasvi Nautiyal
-## Author
-Manasvi Nautiyal
